@@ -1,4 +1,4 @@
-# wordcraft-test
+# wordcraft-docx-to-pdf-test
 
 A small Docker setup for running [WordCraft](https://github.com/storytold/wordcraft)'s command-line tool to convert .docx files to PDF, so you can see how it handles your documents.
 
